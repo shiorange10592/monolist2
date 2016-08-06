@@ -1,0 +1,5 @@
+class Want < Ownership
+    
+    
+    
+end
